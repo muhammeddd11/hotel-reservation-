@@ -1,0 +1,16 @@
+{
+  "name": "hotels-reservations",
+  "version": "1.0.0",
+  "description": "backend system for a hotels reservation web appliation",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Muhammed abdelsamea",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1",
+    "nodemon": "^3.1.7"
+  }
+}
